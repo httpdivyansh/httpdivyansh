@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Invitation card</title>
+</head>
+<body style ="background-color: rgb(175, 164, 134); border: 20px solid; background-image: -moz-repeating-radial-gradient();" >
+    <h1> <marquee scrollamount="50" direction="right">-----------------------------------------------------WELCOME--------------------------------------------------------</marquee> </h1>
+    <br><br><center><b><i><h1 style ="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #f0f8ff; font-size: 60px;"><mark>INAUGURATION CEREMONY</mark></h1></i></b></center>
+    <center><i><h1 style ="font-family: 'Times New Roman', Times, serif; color: aliceblue; font-size: 20px;">OF OUR COMPUTER LAB</h1></i></center>
+    <center><i><h1 style ="font-family: 'Times New Roman', Times, serif; color: #f0f8ff; font-size: 20px;">REQUEST YOUR GRACIOUS PRESENCE ON</h1></i></center>
+    <center><i><h1 style ="font-family: 'Times New Roman', Times, serif; color: aliceblue; font-size: 20px;">THIS AUSPICIOUS OCCASION</h1></i></center>
+    
+    <center><i><h1 style ="font-family: 'Times New Roman', Times, serif; color: aliceblue; font-size: 20px;"></h1></i></center>
+   <center><h1 style ="font-family: 'Times New Roman', Times, serif; color: aliceblue; font-size: 40px;">14TH MAY,SATURDAY,7PM VENUE</h1></center>
+   
+   <h1> <marquee scrollamount="50" direction="right">-----------------------------------------------------WELCOME--------------------------------------------------------</marquee> </h1>
+
+</body>
+</html>
