@@ -7,16 +7,25 @@
     <title>Invitation card</title>
 </head>
 <body style ="background-color: rgb(175, 164, 134); border: 20px solid; background-image: -moz-repeating-radial-gradient();" >
-    <h1> <marquee scrollamount="50" direction="right">-----------------------------------------------------WELCOME--------------------------------------------------------</marquee> </h1>
-    <br><br><center><b><i><h1 style ="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #f0f8ff; font-size: 60px;"><mark>INAUGURATION CEREMONY</mark></h1></i></b></center>
+    <h1> <marquee scrollamount="50" direction="right"><strike>-----------------------------------------------------WELCOME--------------------------------------------------------</strike></marquee> </h1>
+    <br><br><center><b><i><h1 style ="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #f0f8ff; font-size: 60px;"><mark ><u>INAUGURATION CEREMONY</u> </mark></h1></i></b></center>
     <center><i><h1 style ="font-family: 'Times New Roman', Times, serif; color: aliceblue; font-size: 20px;">OF OUR COMPUTER LAB</h1></i></center>
     <center><i><h1 style ="font-family: 'Times New Roman', Times, serif; color: #f0f8ff; font-size: 20px;">REQUEST YOUR GRACIOUS PRESENCE ON</h1></i></center>
     <center><i><h1 style ="font-family: 'Times New Roman', Times, serif; color: aliceblue; font-size: 20px;">THIS AUSPICIOUS OCCASION</h1></i></center>
     
     <center><i><h1 style ="font-family: 'Times New Roman', Times, serif; color: aliceblue; font-size: 20px;"></h1></i></center>
    <center><h1 style ="font-family: 'Times New Roman', Times, serif; color: aliceblue; font-size: 40px;">14TH MAY,SATURDAY,7PM VENUE</h1></center>
-   
-   <h1> <marquee scrollamount="50" direction="right">-----------------------------------------------------WELCOME--------------------------------------------------------</marquee> </h1>
+   <center><h1 style ="font-family: 'Times New Roman', Times, serif; color: aliceblue; font-size: 40px;"></h1></center>
+   <center><h1 style ="font-family: 'Times New Roman', Times, serif; color: aliceblue; font-size: 40px;">Wardha Rd, Civil Lines, Nagpur,Maharastra 440004</h1></center>
+   <center><h1 style ="font-family: 'Times New Roman', Times, serif; color: aliceblue; font-size: 20px;">12:00 Noon To 6:00 PM</h1></center>
+
+   <center><h1 style ="font-family: 'Times New Roman', Times, serif; color: aliceblue; font-size: 40px;"> Our Cheif Guest</h1></center>
+
+
+   <center><h1 style ="font-family: 'Times New Roman', Times, serif; color: aliceblue; font-size: 40px;"><ol type="1" start="1">
+       <li> ----------- </li>
+   </ol></h1></center>
+   <h1> <marquee scrollamount="50" direction="right"><strike>-----------------------------------------------------WELCOME--------------------------------------------------------</strike></marquee> </h1>
 
 </body>
 </html>
