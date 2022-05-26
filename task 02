@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center><h3>Time-Table</h3></center>
+    <table border="4" cellspacing="0">
+    <tr>
+        <th>Day</th>
+        <th>1</th>
+        <th>2</th>
+        <th>3</th>
+        <th>Recess</th>
+        <th>4</th>
+        <th>5</th>
+        <th>6</th>
+    </tr>
+    <tr>
+        <th>Monday</th>
+        <th>AC(NZ)<br>(B004)</th>
+        <th colspan="2">EGDL(HW/PM)<br>(B004)</th>
+        <th rowspan="6">Recess</th>
+        <th>EM-II(HR)<br>(B004)</th>
+        <th colspan="2">PRACTICAL<br>CEL(C1-F204)/ACL(C2-F007)</th>
+        
+    </tr>
+    <tr>
+        <th>Tuesday</th>
+        <th>AC(NZ)<br>(B004)</th>
+        <th colspan="2">EGDL(HW/PM)<br>(B004)</th>
+        <th>Recess</th>
+        <th>CE(SD)<br>(B004)</th>
+        <th >TUTORIAL<br>M-II(C1-B004)/AC(C2-B104)</th>
+        <th>EM-II(HR)<br>(B004)</th>
+        
+    </tr>
+    <tr>
+        <th>WEDNESDAY</th>
+        <th>AC(NZ)<br>(B004)</th>
+        <th colspan="2">EGDL(HW/PM)<br>(B004)</th>
+        <th>Recess</th>
+        <th>EM-II(HR)<br>(B004)</th>
+        <th colspan="2">PRACTICAL<br>CEL(C1-F204)/ACL(C2-F007)</th>
+        
+    </tr>
+</table>
+</body>
+</html>
