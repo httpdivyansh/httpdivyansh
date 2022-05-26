@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+ <h1><body background="" >
+   
+    <ul type='square'>
+    <li>programming language</li>
+    <li>regional language</li>
+
+    </ul>
+    <ul type='disc'>
+        <li>programming language</li>
+        <li>regional language</li>
+    
+        </ul>
+    <ul type='circle'>
+            <li>programming language</li>
+            <li>regional language</li>
+        
+            </ul>
+    <dl>
+        <dt> car </dt>
+            <dd> baleno </dd>
+            <dd>supra</dd>
+    </dl>
+<h1>table</h1>
+<center><table border="2" cellspacing="0" > 
+    <tr><th>Sr.No</th>
+    <th>Name</th>
+    <th>Branch</th>
+    <th>score</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>ABC</td>
+        <td rowspan="2">AI</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td rowspan="2">ABCD</td>
+       
+        <td>99</td>
+        <tr>
+            <td>3</td>
+            
+            <td>AIML</td>
+            <td>97</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>LMNO</td>
+            <td>CSE</td>
+            <td>50</td>
+    
+        </tr>
+
+    </tr>
+</table></center>
+            
+       
+    
+</body></h1>
+</html>
