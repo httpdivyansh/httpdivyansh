@@ -7,8 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    <center><h3>Time-Table</h3></center>
-    <table border="4" cellspacing="0">
+    <center><h1>Time-Table</h1></center>
+    <center><table border="4" cellspacing="0">
     <tr>
         <th>Day</th>
         <th>1</th>
@@ -32,7 +32,6 @@
         <th>Tuesday</th>
         <th>AC(NZ)<br>(B004)</th>
         <th colspan="2">EGDL(HW/PM)<br>(B004)</th>
-        <th>Recess</th>
         <th>CE(SD)<br>(B004)</th>
         <th >TUTORIAL<br>M-II(C1-B004)/AC(C2-B104)</th>
         <th>EM-II(HR)<br>(B004)</th>
@@ -40,13 +39,36 @@
     </tr>
     <tr>
         <th>WEDNESDAY</th>
-        <th>AC(NZ)<br>(B004)</th>
-        <th colspan="2">EGDL(HW/PM)<br>(B004)</th>
-        <th>Recess</th>
         <th>EM-II(HR)<br>(B004)</th>
-        <th colspan="2">PRACTICAL<br>CEL(C1-F204)/ACL(C2-F007)</th>
+        <th>CE(SD)<br>(B004)</th>
+        <th>WD(SC/SD/AT)<br>(F106)</th>
+        <th colspan="2">EGDL(HW)<br>(B004)</th>
+        <th>CW(AL/PN/SM)<br>(F106)</th>
         
     </tr>
-</table>
+    <tr>
+        <th>Thursday</th>
+        <th colspan="3">WD(SC/SD/AT)<br>(B004)</th>
+        <th colspan="2">EGD(HW)<br>(B004)</th>
+        <th>NPTEL</th>
+        
+    </tr>
+    <tr>
+        <th>FRIDAY</th>
+        <th>AC(NZ)<br>(B004)</th>
+        <th colspan="2">PRACTICAL<br>CEL(C2-F204)/ACL(C1-F007)</th>
+        <th>CE(SD)<br>(B004)</th>
+        <th colspan="2">SPORT/CULTURE/FORUM CLUB</th>
+        
+    </tr>
+    <tr>
+        <th>SATURDAY</th>
+        <th>EM-II(HR)<br>(B004)</th>
+        <th>TUTORIAL<br>M-II(C2-B004)/AC(C1-F101)</th>
+        <th>AC(NZ)<br>(F201)</th>
+        <th colspan="3">CW(AL/PN/SM)<br>(F106)</th>
+    </tr>
+
+</table></center>
 </body>
 </html>
