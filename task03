@@ -5,17 +5,24 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        
+    </style>
     
 </head>
 <body>
-    <center><h1 ><u><i>RESUME</i></u></h1></center>
-    
-    <h2 font-family="sans-serif"> Name: Krunesh Swamy </h2>
-    <h2>Email Id: kruneshswamy@gmail.com</h2>
-    <h2>Contact Number: 7225965784</h2>   
-    <img src="C:\Users\KRUNESH\Desktop\invitation card\image\passport1.jpeg" height="150px" width="auto" alt="this is a photograph"> 
+    <center><h1 style="background-color: orange;"<u><i>RESUME</i></u></h1></center>
     <hr>
-    
+    <center style="background-color: orange;"><h2 font-family="sans-serif" style="background-color: orange;"> Name:Divyansh Jain </h2>
+    <h2 style="background-color: orange;">Email Id: divyanshjain@gmail.com</h2>
+    <h2 >Contact Number: 7225965784</h2>
+    </center>
+    <hr>
+    <div><img src="C:\Users\DIVYANSH\Pictures\passport.jpg" height="150px" width="auto" style="float:left;" margin-top="399px">
+    </div>
+        <br>
+   
+    <br>
    <center> <table border="2">
         <tr>
             <th>DEGREE</th>
@@ -25,34 +32,40 @@
         <tr>
             <td>B.Tech</td>
             <td>7.56</td>
-            <td><a href=""> CLICK HERE</a></td>
+            <td><a href="table1.html" target="_blank"> CLICK HERE</a></td>
         </tr>
         <tr>
             <td> HSC</td>
             <td>82.54</td>
-            <td><a href="https://cache.careers360.mobi/media/articles/uploads/froala_editor/images/2020/7/13/CBSE-12th-result-2020-class-12-marksheet.jpg"> CLICK HERE</a></td>
+            <td><a href="table2.html" target="_blank"> CLICK HERE</a></td>
         </tr>
         <tr>
             <td>SSC</td>
             <td>81.34</td>
-            <td><a href="https://www.parashosting.com/Report-Card-Sample/IX/Final-Exam-Report-Card.jpg"> CLICK HERE</a></td>
+            <td><a href="table3.html" target="_blank"> CLICK HERE</a></td>
         </tr>
     </table>
     </center>
-    <h2> PERSONAL DATA</h2>
-    <div>
-    Date of Birth      : 13 Nov 2003<br>
-    Age                : 18<br>
-    Place of Birth     : Chennai<br>
+    <h2> PERSONAL DATA</h2><br>
+    <div  background-color:aqua;
+    height: 120px;
+    width: 300px;
+    align-content: center;>
+    Date of Birth      : 11 feb 2003<br>
+    Age                : 19<br>
+    Place of Birth     : Hosangabad<br>
     Height             : 5'8"<br>
-    Father             : Mr. Tarun Swamy<br>
-    Mother             : Mrs. Sharadha swamy<br>
+    Father             : Mr.Suresh Kumar Jain<br>
+    Mother             : Mrs. Rajni Jain<br>
     </div>
     <h2>SKILLS AND INTEREST</h2>
-    
-    <h5>I play cricket and i played from my club in various tournaments<br>
-    I am learning coding since i was in class 10 and from there i got intrest in coding<br>
-    </h5>
+    <ul type="square">
+        <li>
+        I am a Block Level Batminton Champion.</li>
+        <li>I won the title of best drum player. </li>
+       <li> I am currently a Social Activist.</li>
+       <li> I am familiar with some language such as python,C,HTML.</li>
+        
     </ul>
 </body>
 </html>
