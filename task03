@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<body>
+    <center><h1 ><u><i>RESUME</i></u></h1></center>
+    
+    <h2 font-family="sans-serif"> Name: Krunesh Swamy </h2>
+    <h2>Email Id: kruneshswamy@gmail.com</h2>
+    <h2>Contact Number: 7225965784</h2>   
+    <img src="C:\Users\KRUNESH\Desktop\invitation card\image\passport1.jpeg" height="150px" width="auto" alt="this is a photograph"> 
+    <hr>
+    
+   <center> <table border="2">
+        <tr>
+            <th>DEGREE</th>
+            <th>PERCENTAGE</th>
+            <th>LINKS</th>
+        </tr>
+        <tr>
+            <td>B.Tech</td>
+            <td>7.56</td>
+            <td><a href=""> CLICK HERE</a></td>
+        </tr>
+        <tr>
+            <td> HSC</td>
+            <td>82.54</td>
+            <td><a href="https://cache.careers360.mobi/media/articles/uploads/froala_editor/images/2020/7/13/CBSE-12th-result-2020-class-12-marksheet.jpg"> CLICK HERE</a></td>
+        </tr>
+        <tr>
+            <td>SSC</td>
+            <td>81.34</td>
+            <td><a href="https://www.parashosting.com/Report-Card-Sample/IX/Final-Exam-Report-Card.jpg"> CLICK HERE</a></td>
+        </tr>
+    </table>
+    </center>
+    <h2> PERSONAL DATA</h2>
+    <div>
+    Date of Birth      : 13 Nov 2003<br>
+    Age                : 18<br>
+    Place of Birth     : Chennai<br>
+    Height             : 5'8"<br>
+    Father             : Mr. Tarun Swamy<br>
+    Mother             : Mrs. Sharadha swamy<br>
+    </div>
+    <h2>SKILLS AND INTEREST</h2>
+    
+    <h5>I play cricket and i played from my club in various tournaments<br>
+    I am learning coding since i was in class 10 and from there i got intrest in coding<br>
+    </h5>
+    </ul>
+</body>
+</html>
