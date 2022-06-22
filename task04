@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration form</title>
+    <style>
+        #label{
+            font-size: 50px;
+        }
+        #legend{
+            font-size: 50px;
+        }
+    </style>
+
+</head>
+<body bgcolor="lightgrey">
+    <form >
+        <fieldset>
+            <legend>Registration form</legend>
+            <label>Full Name :</label>
+            <input type="text" placeholder="full name" size="30px" name="fname">
+            <br>
+            <br>
+            <lable>last name</lable>
+            <input type="text" name="lname" placeholder="last name">
+            <br>
+            <br>
+            <lable>Date of Birth</lable>
+            <input type="date" name="date" placeholder="Date of Birth">
+            <br>
+            <br>
+            <lable>Email</lable>
+            <input type="email" name="email" placeholder="email">
+            <br>
+            <br>
+            <lable font-size="50px">Address</lable>
+            <textarea>
+                City:
+                Pin:
+            </textarea>
+            <br>
+            <br>
+            <lable>Gender:</lable>
+            <input type="radio" name="Gender">Female
+            <input type="radio" name="Gender">Male
+            <input type="radio" name="Gender">Transgender
+            <br>
+            <br>
+            <lable>Skills:</lable>
+            <input type="checkbox" name="skill">skate boarding
+            <input type="checkbox" name="skill">web development
+            <input type="checkbox" name="skill">sports
+            <br>
+            <br>
+            <lable>State:</lable>
+            <select>
+                <option value="none">none</option>
+<option >Andhra Pradesh</option>
+<option >Andaman and Nicobar Islands</option>
+<option >Arunachal Pradesh</option>
+<option >Assam</option>
+<option >Bihar</option>
+<option >Chandigarh</option>
+<option >Chhattisgarh</option>
+<option >Dadar and Nagar Haveli</option>
+<option >Daman and Diu</option>
+<option >Delhi</option>
+<option >Lakshadweep</option>
+<option >Puducherry</option>
+<option >Goa</option>
+<option >Gujarat</option>
+<option >Haryana</option>
+<option >Himachal Pradesh</option>
+<option >Jammu and Kashmir</option>
+<option >Jharkhand</option>
+<option >Karnataka</option>
+<option >Kerala</option>
+<option >Madhya Pradesh</option>
+<option >Maharashtra</option>
+<option >Manipur</option>
+<option >Meghalaya</option>
+<option >Mizoram</option>
+<option >Nagaland</option>
+<option >Odisha</option>
+<option >Punjab</option>
+<option >Rajasthan</option>
+<option >Sikkim</option>
+<option >Tamil Nadu</option>
+<option >Telangana</option>
+<option >Tripura</option>
+<option >Uttar Pradesh</option>
+<option >Uttarakhand</option>
+<option >West Bengal</option>
+
+            </select>
+            <br>
+            <br>
+
+        </fieldset>
+    </form>
+    
+    
+</body>
+</html>
