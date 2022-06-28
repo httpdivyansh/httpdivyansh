@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style=" background-image: url(https://einsteinperspectives.com/wp-content/uploads/2022/01/blood-donation-image.jpg); font-size: 20px;">
+    <form style="border: ;3px">
+        <fieldset>
+            <div style="font-size: 30px; border: 5px black;"><center><legend>
+                Blood Donation 
+            </legend></center></div> 
+            <label>Full Name</label>
+            <input type="name" placeholder="Full Name">
+            <br>
+            <br>
+            <label> Date Of Birth</label>
+            <input type="date">
+            <br>
+            <br>
+            <label> Type</label>
+            <input type="name" placeholder="Type">
+            <br>
+            <br>
+            <label> Blood Group</label>
+            <input type="name" placeholder="Blood Group">
+            <br>
+            <br>
+            <label>State</label>
+            <select>
+                <option value="none">none</option>
+<option >Andhra Pradesh</option>
+<option >Andaman and Nicobar Islands</option>
+<option >Arunachal Pradesh</option>
+<option >Assam</option>
+<option >Bihar</option>
+<option >Chandigarh</option>
+<option >Chhattisgarh</option>
+<option >Dadar and Nagar Haveli</option>
+<option >Daman and Diu</option>
+<option >Delhi</option>
+<option >Lakshadweep</option>
+<option >Puducherry</option>
+<option >Goa</option>
+<option >Gujarat</option>
+<option >Haryana</option>
+<option >Himachal Pradesh</option>
+<option >Jammu and Kashmir</option>
+<option >Jharkhand</option>
+<option >Karnataka</option>
+<option >Kerala</option>
+<option >Madhya Pradesh</option>
+<option >Maharashtra</option>
+<option >Manipur</option>
+<option >Meghalaya</option>
+<option >Mizoram</option>
+<option >Nagaland</option>
+<option >Odisha</option>
+<option >Punjab</option>
+<option >Rajasthan</option>
+<option >Sikkim</option>
+<option >Tamil Nadu</option>
+<option >Telangana</option>
+<option >Tripura</option>
+<option >Uttar Pradesh</option>
+<option >Uttarakhand</option>
+<option >West Bengal</option>
+
+            </select>
+            <br>
+            <br>
+            <label>City</label>
+            <input type="name" placeholder="City">
+            <br>
+            <br>
+            <label>Mobile No</label>
+            <input type="number" placeholder="Mobile No">
+            <br>
+            <br>
+            <label>E-mail</label>
+            <input type="email" placeholder="E-mail">
+            <br>
+            <br>
+            <label>Password</label>
+            <input type="password" placeholder="password">
+            <br>
+            <br>
+            <label>Confirm Password</label>
+            <input type="password" placeholder="Password">
+            <br>
+            <br>
+            <label>Security Question</label>
+            <input type="name" placeholder="Security Question">
+            <br>
+            <br>
+        </fieldset>
+    </form>    
+</body>
+</html>
