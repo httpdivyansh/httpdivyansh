@@ -4,57 +4,35 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Registration form</title>
-    <style>
-        #label{
-            font-size: 50px;
-        }
-        #legend{
-            font-size: 50px;
-        }
-    </style>
-
+    <title>Document</title>
 </head>
-<body bgcolor="lightgrey">
-    <form >
+<body style=" background-image: url(https://einsteinperspectives.com/wp-content/uploads/2022/01/blood-donation-image.jpg); font-size: 20px;">
+    <form style="border: ;3px">
         <fieldset>
-            <legend>Registration form</legend>
-            <label>Full Name :</label>
-            <input type="text" placeholder="full name" size="30px" name="fname">
+            <div style="font-size: 30px; border: 5px black;"><center><legend>
+                Blood Donation 
+            </legend></center></div> 
+            <label>Full Name</label>
+            <input type="name" placeholder="Full Name">
             <br>
             <br>
-            <lable>last name</lable>
-            <input type="text" name="lname" placeholder="last name">
+            <label> Date Of Birth</label>
+            <input type="date">
             <br>
             <br>
-            <lable>Date of Birth</lable>
-            <input type="date" name="date" placeholder="Date of Birth">
+            <label> Address</label>
+            <textarea name="Address" id="" cols="30" rows="2"></textarea>
             <br>
             <br>
-            <lable>Email</lable>
-            <input type="email" name="email" placeholder="email">
+            <label> Type</label>
+            <input type="name" placeholder="Type">
             <br>
             <br>
-            <lable font-size="50px">Address</lable>
-            <textarea>
-                City:
-                Pin:
-            </textarea>
+            <label> Blood Group</label>
+            <input type="name" placeholder="Blood Group">
             <br>
             <br>
-            <lable>Gender:</lable>
-            <input type="radio" name="Gender">Female
-            <input type="radio" name="Gender">Male
-            <input type="radio" name="Gender">Transgender
-            <br>
-            <br>
-            <lable>Skills:</lable>
-            <input type="checkbox" name="skill">skate boarding
-            <input type="checkbox" name="skill">web development
-            <input type="checkbox" name="skill">sports
-            <br>
-            <br>
-            <lable>State:</lable>
+            <label>State</label>
             <select>
                 <option value="none">none</option>
 <option >Andhra Pradesh</option>
@@ -97,10 +75,31 @@
             </select>
             <br>
             <br>
-
+            <label>City</label>
+            <input type="name" placeholder="City">
+            <br>
+            <br>
+            <label>Mobile No</label>
+            <input type="number" placeholder="Mobile No">
+            <br>
+            <br>
+            <label>E-mail</label>
+            <input type="email" placeholder="E-mail">
+            <br>
+            <br>
+            <label>Password</label>
+            <input type="password" placeholder="password">
+            <br>
+            <br>
+            <label>Confirm Password</label>
+            <input type="password" placeholder="Password">
+            <br>
+            <br>
+            <label>Security Question</label>
+            <input type="name" placeholder="Security Question">
+            <br>
+            <br>
         </fieldset>
-    </form>
-    
-    
+    </form>    
 </body>
 </html>
