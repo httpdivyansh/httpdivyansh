@@ -29,7 +29,12 @@
             <br>
             <br>
             <label> Blood Group</label>
-            <input type="name" placeholder="Blood Group">
+            A<input type="checkbox">
+            A+<input type="checkbox">
+            B<input type="checkbox">
+            B+<input type="checkbox">
+            O<input type="checkbox">
+            O+<input type="checkbox">
             <br>
             <br>
             <label>State</label>
@@ -100,6 +105,7 @@
             <br>
             <br>
         </fieldset>
-    </form>    
+    </form>
+    <center><input type="button" value="SUBMIT" style="font-size: 20px;" ></center>    
 </body>
 </html>
