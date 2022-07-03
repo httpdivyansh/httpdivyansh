@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1{
+            font-size: 50px;
+            text-align: center;
+            text-decoration: underline;
+            color: aliceblue;
+             font-family: sans-serif;
+            margin-top: 50px;
+            text-shadow: 2px 5px 5px grey;
+            line-height: 10px;
+        }
+        body{
+            background-color: #4d4b48;
+            transition: opacity 1s ease-in;
+        }
+        .bio{
+            text-align: center;
+            color: aliceblue;
+            line-height: 1em;
+            font-size: 30px;
+            text-decoration: underline;
+
+            
+        }
+        img{
+            filter: drop-shadow(30px 30px 30px grey);
+            filter: brightness(120%);
+            filter: contrast(120%);
+            height: auto;
+            width: 700px;
+        }
+        .date{
+            line-height: 10px;
+            font-size: 40px;
+            text-decoration: underline;
+            color: antiquewhite;
+            margin-left: 400px;
+
+        }
+        .graph{
+            color: #eae6dd;
+            margin-left: 400px;
+            margin-right: 400px;
+            font-size: 20px;
+        }
+        .con>div{
+            
+            color: aliceblue;
+            padding: 5px;
+            margin: 20px;
+            font-size: 20px;
+            ;
+
+        }
+        .con{
+            flex-wrap: wrap;
+            display: flex;  
+        }
+        
+
+        
+    </style>
+</head>
+<body>
+    
+    <h1>Steve Job</h1>
+    <p class="bio">1955-2011</p>
+    <hr>
+    <br>
+    <center><img src="https://lamanzanamordida.net/app/uploads-lamanzanamordida.net/2021/02/Steve-Jobs-Macintosh.jpg"></center>
+
+    <p class="date">Biography</p>
+    <p class="graph">Steven Paul "Steve" Jobs (February 24, 1955 – October 5, 2011) was an American entrepreneur and inventor, best known as the co-founder, chairman, and CEO of Apple Inc. At the time of his resignation from Apple, and again after his death, Jobs was widely described as a visionary, pioneer, and genius—perhaps one of the foremost—in the field of business, innovation, and product design. He profoundly changed the face of the modern world and was an "exemplar for all chief executives."
+
+        Through Apple, Jobs was widely recognized as a charismatic pioneer of the personal computer revolution and for his influential career in the computer and consumer electronics fields. As CEO of the company, Jobs oversaw the development of the iMac, iTunes, iPod, iPhone, and iPad, and on the services side, the company's Apple Retail Stores, iTunes Store, and the App Store. The success of these products and services provided several years of stable financial returns, and propelled Apple to become the world's most valuable publicly traded company in 2011.
+        
+        Jobs also co-founded and served as chief executive of Pixar Animation Studios, and he became a member of the board of directors of The Walt Disney Company in 2006 when Disney acquired Pixar.Jobs received a number of honors and public recognition for his influence in the technology and music industries. At the time of his death, following a decade of ill health, he was actively involved in designing new products and had he lived longer would no doubt have continued to make contributions to advance society in unique ways.
+
+    </p>
+    <hr>
+    <div class="con">
+        <div >Home</div>
+        <div >About</div>
+        <div >Source</div>
+    </div>
+</body>
+</html>
+<!--<center><a href="https://idowuomisore.files.wordpress.com/2013/08/steve-jobs-death-post-image.jpg"></a> </center>
