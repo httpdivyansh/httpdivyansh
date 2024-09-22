@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Deep Learning<br>👯 I’m looking to collaborate on Next.js Projects<br>🤝 I’m looking for help with Neural Network<br>🌱 I’m currently learning Artificial Intelligence & Data Science<br>⚡ Recent studies show that around 70% of coding jobs have nothing to do with technology at all.
+🔭 I’m currently working on Deep Learning<br>👯 I’m looking to collaborate on Next.js Projects<br>🤝 I’m looking for help with Neural Network<br>🌱 I’m currently learning Artificial Intelligence & Data Science<br>⚡ Coding has over 700 languages
 
 
 ## 🌐 Socials:
